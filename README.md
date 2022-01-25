@@ -16,7 +16,7 @@ Created many front-end websites (multi-page and landing page websites, I do good
 Created OS overlays (similar to Octoroit, created in VB).
 
 - 👨‍💻 What languages I specify in:
-Visual Basic Winforms: Learned this language as my first coding language in 2016. Have made hundreds of VB projects
+Visual Basic Winforms: Learned this language as my first coding language in 2016. Have made hundreds of VB projects.
 Visual C# Winforms: I learned this language after I learned VB sufficiently. C# was the second language that I learned.
 PHP: Learning PHP since mid-2019, one of the languages I'm most experienced with.
 HTML: Known intermedite HTML since early 2017, when I created personal websites.
