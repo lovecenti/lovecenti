@@ -5,7 +5,6 @@
 - 📫 Reach me at @lovecenti on YouTube, Twitter, and Youtube, or alternatively, my Discord at Centi#0001
 
 - 💻 Who I've worked with:
-Worked for Glo Extracts in 2021 (https://www.gloextractsusa.com).
 Worked for rapper & singer JUMEX to create his website in 2022 (https://lovejumex.com).
 Created a site for Texan agriculture company Agra Acres (2019) (site no longer online).
 
