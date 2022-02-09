@@ -7,6 +7,7 @@
 - 💻 Who I've worked with:
 Worked for rapper & singer JUMEX to create his website in 2022 (https://lovejumex.com).
 Created a site for Texan agriculture company Agra Acres (2019) (site no longer online).
+Partnered with AnimeKuro and 9stream.io to create Cybrid Security (currently in development).
 
 - 💻 What I've created:
 Created several basic antivirus software (personal project).
