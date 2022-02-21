@@ -1,5 +1,4 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lovecenti&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lovecenti&langs_count=5&theme=tokyonight)]()
 
 - 👋 Hi, I’m @lovecenti
 - 👀 I’m interested in full stack web development
