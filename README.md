@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LoveCenti, also known as Caden Teves</h1>
-<h3 align="center">A passionate front and back-end web developer from Massachusetts.</h3>
+<h3 align="center">I am a passionate front and back-end web developer from Massachusetts, with over 5 years of experience in programming</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovecenti" alt="lovecenti" /></a> </p>
 
