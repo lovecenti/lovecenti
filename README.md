@@ -19,4 +19,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lovecenti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lovecenti" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovecenti&show_icons=true&locale=en" alt="lovecenti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovecenti&show_icons=true&locale=en?theme=nightowl" alt="lovecenti" /></p>
