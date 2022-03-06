@@ -19,11 +19,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lovecenti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lovecenti" /></a></p><br><br>
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
+<table align="left">
 
+  <td>
 [![Spotify](https://novatorem-lake-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/73ufzdcsinvswmgjdytqk8t7r)
-    
-      </td>
+  </td>
 </table>
