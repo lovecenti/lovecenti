@@ -2,7 +2,14 @@
 <h3>I am a passionate front and back-end web developer coming out of Massachusetts, with over 5 years of experience in programming</h3>
 <p>✏️ My Current Projects:</p>
 <ul>
-  <li>Cybrid Security: A worldwide web-proxy app to access blocked sites on restricted networks<li>
+  <li>Cybrid Security: A worldwide web-proxy app to access blocked sites on restricted networks</li>
+</ul>
+<p>🤵 Who I've Worked With:</p>
+<ul>
+  <li>LoveJumex: A singer & rapper coming out of Chicago, Illinois; https://lovejumex.com</li>
+  <li>GloExtractsUSA: An upcoming cartridge company coming from Chicago, Illinois; https://gloextractsusa.com</li>
+  <li>Sygma: Minecraft game hosting platform designed to make setting up a server easily; <i>in development</i></li>
+  <li>PackEyes Inc: Lighters, smoking accessories, & more; <i>in development</i></li>
 </ul>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=lovecenti" alt="lovecenti" /></a> </p>
