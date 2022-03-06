@@ -22,6 +22,6 @@
 <table align="left">
 
   <td>
-[![Spotify](https://novatorem-lake-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/73ufzdcsinvswmgjdytqk8t7r)
+![Spotify](https://novatorem-lake-ten.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/73ufzdcsinvswmgjdytqk8t7r)
   </td>
 </table>
