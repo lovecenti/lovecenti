@@ -1,5 +1,9 @@
 <h1>Hi 👋, I'm Caden Teves, known as LoveCenti</h1>
 <h3>I am a passionate front and back-end web developer coming out of Massachusetts, with over 5 years of experience in programming</h3>
+<p>✏️ My Current Projects:</p>
+<ul>
+  <li>Cybrid Security: A worldwide web-proxy app to access blocked sites on restricted networks<li>
+</ul>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=lovecenti" alt="lovecenti" /></a> </p>
 
