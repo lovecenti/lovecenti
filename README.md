@@ -30,7 +30,7 @@
 <a href="https://twitter.com/lovecenti22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lovecenti22" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14134888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14134888" height="30" width="40" /></a>
 <a href="https://instagram.com/lovecenti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lovecenti" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/712162384772333628" target="blank"><img align="center" src="<img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>" alt="lovecenti" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/712162384772333628" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="lovecenti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
