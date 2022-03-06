@@ -16,7 +16,7 @@
   <li>2016-2018: Visual Basic, C#, C++, WinForms, Python; Between 2016-2018, I primarily developed simple desktop applications</li>
   <li>2019: HTML, CSS: In 2019, I started learning web development and pursued it as a genuine career path</li>
   <li>2020-2022: HTML, CSS, JS, Node.JS, PHP, Git: Between the years of 2020-2022, I focused on learning more about web development and it's design concepts</li>
-  <li>Current: Node.JS, React.JS, Laravel: This year, I've dove into more complex frameworks as opposed to creating web applications from scratch using the basic HTML & CSS</li>
+  <li>Current: Node.JS, React.JS, Laravel: This year, I've dove into more complex frameworks as opposed to creating web applications from scratch using basic HTML & CSS</li>
 </ul>
 <p>⌛ My History:</p>
 <p>Originiating from Massachusetts, located in the United States, I am an upcoming front and back-end web developer. I have over 6 years of experience in the field, with skills in many experienced languages. I've developed hundreds of projects, personal & business-oriented, since 2016, in many different coding languages.</p>
