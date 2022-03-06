@@ -1,4 +1,4 @@
-<h1>Hi👋, I'm Caden Teves, known as LoveCenti</h1>
+<h1>Hi👋, I'm LoveCenti</h1>
 <h3>I am a passionate front and back-end web developer coming out of Massachusetts, with over 6 years of experience in programming</h3>
 <p>✏️ My Current Projects:</p>
 <ul>
