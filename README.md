@@ -7,9 +7,8 @@
 <p>🤵 Who I've Worked With:</p>
 <ul>
   <li>LoveJumex: A singer & rapper coming out of Chicago, Illinois; https://lovejumex.com</li>
-  <li>GloExtractsUSA: An upcoming cartridge company coming from Chicago, Illinois; https://gloextractsusa.com</li>
   <li>Sygma: Minecraft game hosting platform designed to make setting up a server easily; <i>in development</i></li>
-  <li>PackEyes Inc: Lighters, smoking accessories, & more; <i>in development</i></li>
+  <li>PackEyes Inc: Accessories, gadgets & more; <i>in development</i></li>
 </ul>
 <p>📅 My Timeline:</p>
 <ul>
