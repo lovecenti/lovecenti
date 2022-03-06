@@ -11,6 +11,8 @@
   <li>Sygma: Minecraft game hosting platform designed to make setting up a server easily; <i>in development</i></li>
   <li>PackEyes Inc: Lighters, smoking accessories, & more; <i>in development</i></li>
 </ul>
+<p>⌛ My History:</p>
+<p>&nbsp;&nbsp;Originiating from Massachusetts, located in the United States, I am an upcoming front and back-end web developer. I have over 5 years of experience in the field, with skills in many experienced languages. I've developed hundreds of projects, personal & business-oriented, since 2016, in many different coding languages.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=lovecenti" alt="lovecenti" /></a> </p>
 
