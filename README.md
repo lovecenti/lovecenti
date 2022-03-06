@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lovecenti&show_icons=true&locale=en" alt="lovecenti" /></p>
 
-[![Spotify](novatorem-lake-ten.vercel.app/api/spotify)](https://open.spotify.com/user/73ufzdcsinvswmgjdytqk8t7r)
+[![Spotify](https://novatorem-lake-ten.vercel.app/api/spotify)](https://open.spotify.com/user/73ufzdcsinvswmgjdytqk8t7r)
