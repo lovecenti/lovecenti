@@ -20,7 +20,6 @@
 <p><a href="https://www.buymeacoffee.com/lovecenti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lovecenti" /></a></p><br><br>
 
 <table align="left">
-
   <td>
 [![Spotify](https://novatorem-lake-ten.vercel.app/api/spotify)](https://open.spotify.com/user/73ufzdcsinvswmgjdytqk8t7r)
   </td>
