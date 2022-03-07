@@ -1,3 +1,4 @@
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=lovecenti&theme=darkhub&no-frame=true" alt="lovecenti" /></a> </p>
 <h1>Hi👋, I'm LoveCenti</h1>
 <h3>I am a passionate front and back-end web developer coming out of Massachusetts, with over 6 years of experience in programming</h3>
 <p>✏️ My Current Projects:</p>
@@ -19,8 +20,6 @@
 </ul>
 <p>⌛ My History:</p>
 <p>Originiating from Massachusetts, located in the United States, I am an upcoming front and back-end web developer. I have over 6 years of experience in the field, with skills in many experienced languages. I've developed hundreds of projects, personal & business-oriented, since 2016, in many different coding languages.</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=lovecenti&theme=darkhub&no-frame=true" alt="lovecenti" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lovecenti22" target="blank"><img src="https://img.shields.io/twitter/follow/lovecenti22?logo=twitter&style=for-the-badge" alt="lovecenti22" /></a> </p>
 
