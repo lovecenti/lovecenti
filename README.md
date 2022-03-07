@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=lovecenti&theme=darkhub&no-frame=true" alt="lovecenti" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=lovecenti&theme=darkhub&no-frame=true" alt="lovecenti" /></a> </p>
 <h1>Hi👋, I'm LoveCenti</h1>
 <h3>I am a passionate front and back-end web developer coming out of Massachusetts, with over 6 years of experience in programming</h3>
 <p>✏️ My Current Projects:</p>
