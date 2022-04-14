@@ -9,8 +9,8 @@
 <ul>
   <li>LoveJumex: A singer & rapper coming out of Chicago, Illinois; https://lovejumex.com</li>
   <li>Sygma: Minecraft game hosting platform designed to make setting up a server easily; <i>in development</i></li>
-  <li>PackEyes Inc: Accessories, gadgets & more; <i>in development</i></li>
-  <li>Glo Extracts: Premium cannabis extract brand</li>
+  <li>PackEyes Inc: Accessories, gadgets & more; https://packeyes.com</li>
+  <li>Glo Extracts: Premium cannabis extract brand; https://gloextractsusa.com</li>
 </ul>
 <p>📅 My Timeline:</p>
 <ul>
