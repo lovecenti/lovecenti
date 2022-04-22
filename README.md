@@ -7,20 +7,22 @@
 </ul>
 <p>🤵 Who I've Worked With:</p>
 <ul>
-  <li>LoveJumex: A singer & rapper coming out of Chicago, Illinois; https://lovejumex.com</li>
+  <li>LoveJumex: Singer & rapper coming out of Chicago, Illinois; https://lovejumex.com</li>
   <li>Sygma: Minecraft game hosting platform designed to make setting up a server easily; <i>in development</i></li>
   <li>PackEyes Inc: Cannabis-alternative hemp products (Delta 8, CBD, & more); https://packeyes.com</li>
   <li>Glo Extracts: Premium cannabis extract brand; https://gloextractsusa.com</li>
+  <li>RealStreetShit: Shocking underground content (18+); https://realstreetshit.com</li>
+  <li>Killua.us: PayPal logs; (link deprecated)</li>
 </ul>
 <p>📅 My Timeline:</p>
 <ul>
   <li>2016-2018: Visual Basic, C#, C++, WinForms, Python; Between 2016-2018, I primarily developed simple desktop applications</li>
   <li>2019: HTML, CSS: In 2019, I started learning web development and pursued it as a genuine career path</li>
   <li>2020-2022: HTML, CSS, JS, Node.JS, PHP, Git: Between the years of 2020-2022, I focused on learning more about web development and it's design concepts</li>
-  <li>Current: Node.JS, React.JS, Laravel: This year, I've dove into more complex frameworks as opposed to creating web applications from scratch using basic HTML & CSS</li>
+  <li>Current: Node.JS, React.JS, Laravel, UI/UX Design: This year, I've dove into more complex frameworks as opposed to creating web applications from scratch using basic HTML & CSS. I've dove into UI/UX design, learning the concepts and current design meta.</li>
 </ul>
 <p>⌛ My History:</p>
-<p>Originiating from Massachusetts, located in the United States, I am an upcoming front and back-end web developer. I have over 5 years of experience in the field, with skills in many experienced languages. I've developed hundreds of projects, personal & business-oriented, since 2016, in many different coding languages.</p>
+<p>Originiating from Massachusetts, located in the United States, I am an upcoming front and back-end web developer. I have over 5 years of experience in the field, with skills in many experienced languages. I've developed hundreds of projects, personal & business-oriented, since 2016, using many different coding languages.</p>
 
 <p align="left"> <a href="https://twitter.com/lovecenti22" target="blank"><img src="https://img.shields.io/twitter/follow/lovecenti22?logo=twitter&style=for-the-badge" alt="lovecenti22" /></a> </p>
 
